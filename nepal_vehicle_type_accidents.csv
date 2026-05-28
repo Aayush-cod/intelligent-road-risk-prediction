@@ -1,0 +1,8 @@
+vehicle_type,involvement_pct,fatality_share_pct,notes
+Motorcycle/Two-wheeler,80,45,"Over 80% of all accidents — dominant vehicle type in Nepal"
+Light vehicle (car/jeep/pickup),10,20,"Sedans jeeps pickup vans"
+Bus/Microbus,4,15,"High fatality share due to passenger count"
+Truck/Lorry,3,12,"Overloading common — high severity crashes"
+Tempo/Auto-rickshaw,2,5,"Urban Kathmandu dominant"
+Bicycle,0.5,2,"Mostly urban"
+Pedestrian (hit by vehicle),0.5,1,"Pedestrian fatality — not a vehicle type but tracked"

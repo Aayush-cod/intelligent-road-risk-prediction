@@ -1,0 +1,11 @@
+cause,category,fy_2019_20_pct,fy_2020_21_pct,fy_2021_22_pct,severity_level,notes
+Carelessness/negligence by driver,Driver behaviour,83,83,83,high,"Consistently ~83% of all accidents — Nepal Police data"
+Overspeeding,Driver behaviour,10,10,10,high,"~10% of accidents — major cause"
+Drunk driving,Driver behaviour,2,2,2,high,"~2% — underreported likely higher"
+Overtaking,Driver behaviour,2,2,2,high,"~2% — common on mountain roads"
+Defective road condition,Infrastructure,1.5,1.5,1.5,medium,"Road surface failures"
+Weather condition (rain/fog),Environment,0.8,0.8,0.8,medium,"Monsoon season spike"
+Technical fault of vehicle,Vehicle,0.4,0.4,0.4,medium,"Brake failure etc"
+Overloading,Vehicle,0.3,0.3,0.3,medium,"Common in trucks and buses"
+Cattle/stray animals on road,Environment,0.5,0.5,0.5,low,"More common in Terai"
+Negligence by pedestrian,Pedestrian,0.5,0.5,0.5,medium,"Especially in urban areas"
