@@ -19,3 +19,10 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# Data and output files
+*.csv
+*.png
+
+# Node
+node_modules/
